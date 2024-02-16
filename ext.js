@@ -1,3 +1,4 @@
+/// ext.js
 javascript:(function() {
     var extensionId = prompt('Enter the extension ID:');
     if (extensionId) {
