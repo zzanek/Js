@@ -15,4 +15,4 @@ javascript:(function() {
 })();
 /// test.js
 /// willthis.js
-alert("hi")
+javascript:alert("hi")
