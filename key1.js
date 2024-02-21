@@ -1,2 +1,2 @@
 /// alert.js
-javascript:window.onkeydown = function(event) {   if (event.keyCode === 75) {      javascript:eval('function calc(){_o=prompt(_t,_z);if(_o!=\'\'&&_o!=null&&_o.toUpperCase()==_o.toLowerCase())_z=eval(_o);}');_t='FrostMC Calculator - Input the expression to be calculated:';_z='';calc();while(_o!=''&&_o!=null&&_o.toUpperCase()==_o.toLowerCase())calc()   }};
+javascript:location.href='https://clients2.google.com/service/update2/crx?response=redirect&acceptformat=crx2,crx3&prodversion='+(navigator.appVersion.match(/Chrome\/(\S+)/)[1])+'&x=id%'+'3D'+(location.pathname.split('/').pop())+'%'+'26installsource%'+'3Dondemand%'+'26uc';
